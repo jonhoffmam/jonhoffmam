@@ -1,8 +1,46 @@
-### Hey guys! 👊
+
+
+<h3 align="center">Hey guys! 👊</h3>
 
 My name is Jonathan Hoffmam Pivetta, known as Jon Hoffmam (but I love my surname Pivetta 🇮🇹😁) and I'm from Brazil 🇧🇷!
 
-Enthusiastic about technology since 2005, the first contact with development was through the Computer Technician course with Pascal and Delphi. I dedicated 6 years to Architecture and Urbanism, always with technology as an ally. Today I dedicate myself 100% to development through technologies such as <img align="center" width="21" src="https://user-images.githubusercontent.com/46982925/88995637-8c255780-d2c1-11ea-99f4-44fdc03f9085.png" alt="JavaScript Icon" /> JavaScript, <img align="center" src="https://api.iconify.design/mdi:language-typescript.svg?color=%23007acc&height=28" alt="TypeScript Icon" />TypeScript, <img align="center" src="https://api.iconify.design/mdi:nodejs.svg?color=%23026e00&height=28" alt="TypeScript Icon" />NodeJS, <img align="center" src="https://api.iconify.design/mdi:react.svg?color=%2361dafb&height=28" alt="React Icon" />React and React Native.
+Enthusiastic about technology since 2005, the first contact with development was through the Computer Technician course with Pascal and Delphi. I dedicated 6 years to Architecture and Urbanism, always with technology as an ally. Today I dedicate myself 100% to development through technologies such as JavaScript, TypeScript, ReactJS, React Native and NodeJS.
 
-Follow me!  
-[![Instagram Badge](https://img.shields.io/badge/-HackerRank-1ba94c?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/jonhoffmam)](https://www.hackerrank.com/jonhoffmam) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonhoffmam)](https://www.linkedin.com/in/jonhoffmam) [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonhoffmam)](https://www.instagram.com/jonhoffmam) [![Instagram Badge](https://img.shields.io/badge/-MyUrls-gray?style=flat&logo=data:image/svg+xml;utf8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNyIgaGVpZ2h0PSIxNyIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDE3IDE3Ij48ZWxsaXBzZSBjeD0iOC43MjUiIGN5PSI4LjI4IiBmaWxsPSIjMDExRDQ3IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iLjU3OSIgcng9IjcuNzI1IiByeT0iNy45ODUiLz48cGF0aCBmaWxsPSIjMDExRDQ3IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iLjU3OSIgZD0iTTExLjI0NjkgOC4yNzk5NkMxMS4yNDY5IDEwLjU0MzUgMTAuOTM0OSAxMi41ODA1IDEwLjQzODggMTQuMDQxNkMxMC4xOTAzIDE0Ljc3MzYgOS45MDA4NCAxNS4zNDUxIDkuNTkzNjIgMTUuNzI3OUM5LjI4NDIzIDE2LjExMzIgOC45ODg4OCAxNi4yNzAyIDguNzI1MjMgMTYuMjcwMkM4LjQ2MTU4IDE2LjI3MDIgOC4xNjYyMyAxNi4xMTMyIDcuODU2ODUgMTUuNzI3OUM3LjU0OTYyIDE1LjM0NTEgNy4yNjAxNiAxNC43NzM2IDcuMDExNjIgMTQuMDQxNkM2LjUxNTUyIDEyLjU4MDUgNi4yMDM1NiAxMC41NDM1IDYuMjAzNTYgOC4yNzk5NkM2LjIwMzU2IDYuMDE2NDQgNi41MTU1MiAzLjk3OTM4IDcuMDExNjIgMi41MTgzQzcuMjYwMTYgMS43ODYzMSA3LjU0OTYyIDEuMjE0NzcgNy44NTY4NSAwLjgzMjA2M0M4LjE2NjIzIDAuNDQ2NjcgOC40NjE1OCAwLjI4OTc0NCA4LjcyNTIzIDAuMjg5NzQ0QzguOTg4ODggMC4yODk3NDQgOS4yODQyMyAwLjQ0NjY3IDkuNTkzNjIgMC44MzIwNjNDOS45MDA4NCAxLjIxNDc3IDEwLjE5MDMgMS43ODYzMSAxMC40Mzg4IDIuNTE4M0MxMC45MzQ5IDMuOTc5MzggMTEuMjQ2OSA2LjAxNjQ0IDExLjI0NjkgOC4yNzk5NloiLz48cGF0aCBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iLjU3OSIgZD0iTTEuMzI2NjYgNi4yMTA5NEwxNi40NDk5IDYuMjEwOTRNMS43Mzc3OSAxMS45ODYzSDE1LjY2MjciLz48L3N2Zz4=&logoColor=white&link=https://myurls.co/jonhoffmam)](https://myurls.co/jonhoffmam)
+</br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonhoffmam&show_icons=true&hide=stars,prs&bg_color=151515&title_color=007acc&icon_color=007acc&text_color=FFFFFF"/></p>
+
+<h3 align="center"><b><img align="center" src="https://api.iconify.design/bx:bxs-terminal.svg?color=%23000&height=28" alt="Terminal Icon" />
+Languages and Tools <img align="center" src="https://api.iconify.design/entypo:tools.svg?color=%23000&height=28" alt="Terminal Icon" /></b></h3>
+<p align="center">
+<img align="center" src="https://api.iconify.design/logos:javascript.svg?color=%23007acc&height=31" alt="JavaScript Icon" />
+<img align="center" src="https://api.iconify.design/logos:typescript-icon.svg?color=%23007acc&height=31" alt="TypeScript Icon" />
+<img align="center" src="https://api.iconify.design/simple-icons:html5.svg?color=%23e34c26&height=31" alt="HTML5 Icon" />
+<img align="center" src="https://api.iconify.design/simple-icons:css3.svg?color=%232965f1&height=31" alt="CSS3 Icon" />
+<img align="center" src="https://api.iconify.design/logos:react.svg?color=%2361dafb&height=31" alt="React Icon" />
+<img align="center" src="https://api.iconify.design/logos:nodejs-icon.svg?color=%23026e00&height=31" alt="NodeJS Icon" />
+<img align="center" src="https://api.iconify.design/logos:visual-studio-code.svg?color=%23007acc&height=31" alt="VS Code Icon" />
+<img align="center" src="https://api.iconify.design/logos:npm.svg?color=%23007acc&height=21" alt="NPM Icon" />
+<img align="center" src="https://api.iconify.design/logos:expo.svg?color=%23007acc&height=31" alt="Expo Icon" />
+<img align="center" src="https://api.iconify.design/logos:figma.svg?color=%23007acc&height=31" alt="Figma Icon" />
+<img align="center" src="https://api.iconify.design/simple-icons:affinityphoto.svg?color=%23FF8DFF&height=31" alt="Affinity Photo Icon" />
+<img align="center" src="https://api.iconify.design/simple-icons:affinitydesigner.svg?color=%2300C5F4&height=31" alt="Affinity Designer Icon" />
+<img align="center" src="https://api.iconify.design/simple-icons:affinitypublisher.svg?color=%23FFA561&height=31" alt="Affinity Publisher Icon" />
+<img align="center" src="https://api.iconify.design/logos:ubuntu.svg?color=%23007acc&height=31" alt="Ubuntu Icon" />
+<img align="center" src="https://api.iconify.design/logos:microsoft-windows.svg?color=%23007acc&height=31" alt="Windows Icon" /></p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhoffmam&layout=compact"/></p>
+<h1></h1>
+<p align="center"><b>Follow me!</b></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/jonhoffmam">
+<img align="center" src="https://api.iconify.design/ant-design:linkedin-filled.svg?color=%230e76a8&height=30" alt="Linkedin Icon" /></a>
+<a href="https://www.twitter.com/jonhoffmam_">
+<img align="center" src="https://api.iconify.design/ant-design:twitter.svg?color=%2300acee&height=30" alt="Twitter Icon" /></a>
+<a href="https://www.instagram.com/jonhoffmam">
+<img align="center" src="https://api.iconify.design/ant-design:instagram.svg?color=purple&height=30" alt="Instagram Icon" /></a>
+<a href="https://www.hackerrank.com/jonhoffmam">
+<img align="center" src="https://api.iconify.design/la:hackerrank.svg?color=%231ba94c&height=30" alt="HackerRank Icon" /></a>
+<a href="https://myurls.co/jonhoffmam">
+<img align="center" src="https://api.iconify.design/clarity:world-line.svg?color=%23000&height=28" alt="World Link Icon" /></a>
+</p>

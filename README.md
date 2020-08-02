@@ -1,5 +1,5 @@
-<h3 align="right" >Hey guys! 👊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<img align="center" src="https://spotify-playing.vercel.app/now-playing" width="200" height="54" alt="Spotify Now" /><img align="center" src="https://api.iconify.design/cib:spotify.svg?color=%2332cd32&height=28" alt="Spotify Icon" /></h3>
+<p align="right" ><img align="center" src="http://l.wigflip.com/a/iWJC9Rc7/screedbot.gif" />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<img align="center" src="https://spotify-playing.vercel.app/now-playing" width="200" height="54" alt="Spotify Now" /><img align="center" src="https://api.iconify.design/cib:spotify.svg?color=%2332cd32&height=28" alt="Spotify Icon" /></p>
 
 My name is Jonathan Hoffmam Pivetta, known as Jon Hoffmam (but I love my surname Pivetta 🇮🇹😁) and I'm from Brazil 🇧🇷!
 

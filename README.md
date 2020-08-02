@@ -1,4 +1,5 @@
-<h3 align="center">Hey guys! 👊</h3>
+<h3 align="right" >Hey guys! 👊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<img align="center" src="https://spotify-playing.vercel.app/now-playing" width="200" height="54" alt="Spotify Now" /><img align="center" src="https://api.iconify.design/cib:spotify.svg?color=%2332cd32&height=28" alt="Spotify Icon" /></h3>
 
 My name is Jonathan Hoffmam Pivetta, known as Jon Hoffmam (but I love my surname Pivetta 🇮🇹😁) and I'm from Brazil 🇧🇷!
 

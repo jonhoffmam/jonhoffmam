@@ -8,7 +8,7 @@ Enthusiastic about technology since 2005, the first contact with development was
 
 </br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonhoffmam&show_icons=true&hide=stars&bg_color=151515&title_color=007acc&icon_color=007acc&text_color=FFFFFF"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhoffmam&layout=compact&bg_color=151515&title_color=007acc&icon_color=007acc&text_color=FFFFFF"/></p>
+<img align="center" src="https://github-readme-stats.jonhoffmam.vercel.app/api?username=jonhoffmam&show_icons=true&hide=stars&bg_color=151515&title_color=007acc&icon_color=007acc&text_color=FFFFFF"/><img align="center" src="https://github-readme-stats.jonhoffmam.vercel.app/api/top-langs/?username=jonhoffmam&layout=compact&bg_color=151515&title_color=007acc&icon_color=007acc&text_color=FFFFFF"/></p>
 
 <h3 align="center"><b><img align="center" src="https://api.iconify.design/bx:bxs-terminal.svg?color=%23000&height=28" alt="Terminal Icon" />
 Languages and Tools <img align="center" src="https://api.iconify.design/entypo:tools.svg?color=%23000&height=28" alt="Terminal Icon" /></b></h3>

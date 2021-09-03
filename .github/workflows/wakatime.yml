@@ -1,6 +1,7 @@
 name: WakaTime Metrics
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: 
+    - cron: '30 23 * * *'
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -12,3 +13,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          SHOW_PROJECTS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_PROFILE_VIEWS: "False"

@@ -9,11 +9,11 @@ jobs:
     name: Update Readme with WakaTime Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: jonhoffmam/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime: yes
           plugin_wakatime_limit: 10
-          plugin_wakatime_days: '365'
+          plugin_wakatime_days: 365
           plugin_wakatime_sections: time, languages, languages-graphs, editors, editors-graphs, os, os-graphs

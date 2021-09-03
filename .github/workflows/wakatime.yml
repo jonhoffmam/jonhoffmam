@@ -1,7 +1,7 @@
 name: WakaTime Metrics
 on:
   schedule: 
-    - cron: '0 * * * *'
+    - cron: '30 23 * * *'
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -9,10 +9,10 @@ jobs:
     name: Update Readme with WakaTime Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          SHOW_PROJECTS: "False"
-          SHOW_SHORT_INFO: "False"
-          SHOW_PROFILE_VIEWS: "False"
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime: yes
+          plugin_wakatime_limit: 10
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs

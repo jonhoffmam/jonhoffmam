@@ -9,7 +9,7 @@ jobs:
     name: Update Readme with WakaTime Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: jonhoffmam/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@v4
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}

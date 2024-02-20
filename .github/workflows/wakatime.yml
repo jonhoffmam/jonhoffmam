@@ -1,7 +1,7 @@
 name: WakaTime Metrics
 on:
   schedule:
-    - cron: '30 18 * * *'
+    - cron: '0 0-8/4,9-22/3 * * 1-5'
   workflow_dispatch:
 jobs:
   update-readme:

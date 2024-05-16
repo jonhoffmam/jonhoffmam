@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C504%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C498%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-977.7%20thousand%20lines%20of%20code-blue)
 
@@ -61,5 +61,5 @@ C#                       2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonhoffmam/jonhoffmam/master/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2024 01:19:57 UTC
+ Last Updated on 16/05/2024 04:19:12 UTC
 <!--END_SECTION:waka-->

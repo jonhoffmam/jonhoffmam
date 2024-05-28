@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C517%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C518%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-977.7%20thousand%20lines%20of%20code-blue)
 
@@ -30,16 +30,14 @@ Sunday                   11 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    1 hr 42 mins        ████████████████████████░   94.36 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    3 hrs 3 mins        █████████████████████████   99.99 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      1 hr 48 mins        █████████████████████████   100.00 % 
+WSL                      3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -59,5 +57,5 @@ C#                       2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonhoffmam/jonhoffmam/master/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2024 04:24:36 UTC
+ Last Updated on 28/05/2024 08:25:35 UTC
 <!--END_SECTION:waka-->

@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C519%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C520%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-977.7%20thousand%20lines%20of%20code-blue)
 
@@ -30,13 +30,17 @@ Sunday                   11 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    10 mins             ████████░░░░░░░░░░░░░░░░░   31.49 % 
+Vue.js                   7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Docker                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+JSON                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -56,5 +60,5 @@ C#                       2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonhoffmam/jonhoffmam/master/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2024 04:23:19 UTC
+ Last Updated on 12/06/2024 08:24:36 UTC
 <!--END_SECTION:waka-->

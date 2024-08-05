@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C598%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C599%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -30,13 +30,18 @@ Sunday                   11 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     54 mins             █████████████████████████   100.00 % 
+YAML                     1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   31.04 % 
+C#                       1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+Other                    57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Bash                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Binary                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+Visual Studio            2 hrs 28 mins       █████████████░░░░░░░░░░░░   53.95 % 
+VS Code                  2 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.05 % 
 
 💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.00 % 
+Windows                  4 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -56,5 +61,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonhoffmam/jonhoffmam/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2024 21:19:31 UTC
+ Last Updated on 05/08/2024 01:35:40 UTC
 <!--END_SECTION:waka-->

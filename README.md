@@ -30,16 +30,13 @@ Sunday                   11 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       1 hr 8 mins         ████████████████░░░░░░░░░   62.44 % 
-Binary                   39 mins             █████████░░░░░░░░░░░░░░░░   35.67 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            1 hr 47 mins        █████████████████████████   98.11 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -59,5 +56,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonhoffmam/jonhoffmam/master/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 04:26:21 UTC
+ Last Updated on 31/12/2024 08:27:59 UTC
 <!--END_SECTION:waka-->

@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C458%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C458%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -56,5 +56,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonhoffmam/jonhoffmam/master/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2025 02:00:11 UTC
+ Last Updated on 30/05/2025 04:31:43 UTC
 <!--END_SECTION:waka-->

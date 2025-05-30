@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C458%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C458%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -30,13 +30,14 @@ Sunday                   11 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    21 mins             █████████████████████████   100.00 % 
+Other                    22 mins             ██████████████░░░░░░░░░░░   57.93 % 
+XML                      16 mins             ███████████░░░░░░░░░░░░░░   42.07 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -56,5 +57,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonhoffmam/jonhoffmam/master/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2025 04:31:43 UTC
+ Last Updated on 30/05/2025 08:33:16 UTC
 <!--END_SECTION:waka-->

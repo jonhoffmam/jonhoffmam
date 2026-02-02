@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C466%20hrs%2028%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.13%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -54,5 +56,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonhoffmam/jonhoffmam/master/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2026 05:27:04 UTC
+ Last Updated on 02/02/2026 08:54:46 UTC
 <!--END_SECTION:waka-->

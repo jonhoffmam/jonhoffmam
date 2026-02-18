@@ -30,13 +30,13 @@ Sunday                   11 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    1 hr 54 mins        █████████████████████████   100.00 % 
+Other                    1 hr 25 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -56,5 +56,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonhoffmam/jonhoffmam/master/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2026 05:25:57 UTC
+ Last Updated on 18/02/2026 08:55:51 UTC
 <!--END_SECTION:waka-->
